@@ -30,6 +30,7 @@ I love blending creativity with logic to build solutions that matter.
 ## 🤝 **Connect with Me**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rlpratyoosh)
 - 📧 Email: pratyoosh.prakash.dev@gmail.com
+- 👾 [X](https://x.com/rlpratyoosh)
 - 💬 Let's talk tech, projects, or gaming!
 
 ---
