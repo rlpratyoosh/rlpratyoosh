@@ -8,8 +8,7 @@ I love blending creativity with logic to build solutions that matter.
 ---
 
 ## 👨‍💻 **About Me**
-- 🎯 Currently sharpening my skills in **C++** (and loving every bit of STL!).
-- 🧠 Exploring algorithms, solving problems, and diving deep into backend development.
+- 🎯 Currently sharpening my skills in **Full Stack Development**.
 - 🌱 Always learning something new in tech and life!
 
 ---
@@ -22,8 +21,9 @@ I love blending creativity with logic to build solutions that matter.
 
 ## 🌟 **Skills**
 - **Languages**: C++ and C
-- **Technologies**: File handling, STL (vectors, maps, etc.), and backend concepts.
-- **Currently Learning**: Advanced C++ concepts, efficient algorithms, and exploring tech frameworks.
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Version Control**: Git
+- **Currently Learning**: Full Stack Development
 
 ---
 
