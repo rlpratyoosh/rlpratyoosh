@@ -1,38 +1,51 @@
-# Hi there! 👋 I'm Pratyoosh 🚀
+# Hi there! 👋 I'm Pratyoosh 🚀  
+### Aspiring Software Engineer | Full Stack Developer | Future Founder
 
-### 🧑‍💻 **Aspiring Software Engineer | Coding Enthusiast | Problem Solver**
-
-Welcome to my corner of the tech universe! I'm a university computer science student with a passion for **C++**, **Data Structures & Algorithms (DSA)**, and **creating impactful projects**. 
-I love blending creativity with logic to build solutions that matter.  
+Welcome to my corner of the tech world! I'm a second-year Computer Science student with a fire for **building impactful products**, mastering **Full Stack Development**, and exploring the world of **AI & DSA**.
 
 ---
 
-## 👨‍💻 **About Me**
-- 🎯 Currently sharpening my skills in **Full Stack Development**.
-- 🌱 Always learning something new in tech and life!
+## 👨‍💻 About Me
+- 🧠 Currently diving deep into **Full Stack Development** using **Next.js**, **React**, **TypeScript**, **Tailwind**, and **PostgreSQL**.
+- 💡 I love solving real-world problems through code and building tools I’d personally use.
+- 🛠️ Also exploring **AI/ML** to bring intelligence to my future SaaS products.
+- 🎯 Aiming to launch multiple **zero-cost SaaS MVPs** by the time I graduate.
 
 ---
 
-## ⚡ **What I Do**
-- 📚 **DSA Enthusiast**: Problem-solving is my thing! I'm all about optimizing code and cracking algorithms (Still learning).
-- ✍️ **Creative Writing**: When I'm not coding, you might find me writing stories or poems.
+## 🔧 Tech Stack & Tools
+- **Languages**: C++, C, JavaScript, TypeScript
+- **Frontend**: HTML, CSS, React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express (learning)
+- **Database**: PostgreSQL (with Prisma ORM)
+- **Others**: Git, GitHub, Clerk (Auth), Zod (Validation), Linux
+- **Currently Learning**: AI/ML, Backend APIs, Authentication, DevOps basics
 
 ---
 
-## 🌟 **Skills**
-- **Languages**: C++ and C
-- **Web Technologies**: HTML, CSS, JavaScript
-- **Version Control**: Git
-- **Currently Learning**: Full Stack Development
+## ⚔️ Coding & DSA
+- 📈 Practicing DSA in **C++**
+- 🧠 Aim: Solve 200–300 LeetCode problems by the end of 2nd year.
+- 🏆 Preparing for **Hackathons**, **GSoC 2026**, and internship opportunities
 
 ---
 
-## 🤝 **Connect with Me**
+## ✍️ Beyond Code
+- 📝 I write stories and poems when I'm not debugging or designing UIs.
+- 🎮 Gamer at heart, techie by soul — love to talk about gadgets, games, and tech trends.
+
+---
+
+## 🔗 Connect With Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rlpratyoosh)
-- 📧 Email: pratyoosh.prakash.dev@gmail.com
-- 👾 [X](https://x.com/rlpratyoosh)
-- 💬 Let's talk tech, projects, or gaming!
+- 📧 pratyoosh.prakash.dev@gmail.com
+- 👾 [X / Twitter](https://x.com/rlpratyoosh)
 
 ---
 
-**"Turning Ideas into Code, One Line at a Time."**
+### 💬 Quote I Live By
+> “Build fast. Learn faster. Dream big.”  
+
+---
+
+### 🚀 Let's commit to turning ideas into reality 
