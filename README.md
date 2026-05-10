@@ -1,30 +1,31 @@
-# Hi there! 👋 I'm Pratyoosh 🚀  
-### A Backend Engineer
+# Hi there! 👋 I'm Pratyoosh!
 
-Welcome to my corner of the tech world! I'm a third-year Computer Science student with a fire for building low-latency highly concurrent backends.
+### Backend Engineer | Rust
 
----
-
-## 👨‍💻 About Me
-- 🧠 Currently building backend infrastructures using **Rust**
-- 💡 I love solving real-world problems through code and building tools I’d personally use.
+Welcome to my corner of the tech world. I am a Computer Science student focused on low-level systems programming and high-concurrency backends.
 
 ---
 
-## 🔧 Tech Stack & Tools
-- **Languages:**  Rust, Python, TypeScript, C/C++
-- **Framework:** Next.js, Express.js, Nest.js
-- **Database:** PostgreSQL, Redis, Prisma ORM
-- **Tools & Platforms:** Git, Nginx, Docker, Linux, REST APIs, Event-based APIs
-- **Frontend:** React.js, Tailwind CSS
+## 🔧 Core Arsenal
+
+* **Languages:** Rust, C/C++, Python, Typescript
+* **Databases:** PostgreSQL, Redis, Prisma ORM
+* **Infrastructure:** Linux, Docker, Nginx, REST & Event-Driven APIs
+* **Frameworks:** Next.js, Nest.js, Express.js
+* **Web Layer:** React.js
+
+---
+
+## 👨‍💻 What I'm Doing
+
+* 🦀 **Current Focus:** Deep diving into System Design.
+* ⚙️ **Building:** Architecting a TUI multiplayer chess game and engine.
+* 🛠️ **Environment:** I daily drive an Arch Linux environment (dwm/st).
 
 ---
 
 ## 🔗 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rlpratyoosh)
-- 📧 pratyoosh.prakash.dev@gmail.com
-- 👾 [X / Twitter](https://x.com/rlpratyoosh)
 
----
-
-### 🚀 Let's commit to turning ideas into reality 
+* 👔 [LinkedIn](https://www.linkedin.com/in/rlpratyoosh)
+* 🌐 [Website](https://www.pratyoosh.me/)
+* 📧 pratyoosh.prakash.dev@gmail.com
