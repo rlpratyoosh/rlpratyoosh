@@ -2,7 +2,7 @@
 
 ### Backend Engineer | Rust
 
-Welcome to my corner of the tech world. I am a Computer Science student focused on low-level systems programming and high-concurrency backends.
+Welcome to my corner of the tech world. I am a Computer Science student focused on low-level programming and high-concurrency backends.
 
 ---
 
